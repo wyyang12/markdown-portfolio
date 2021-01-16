@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![sample image](file:///Users/wyyang/Desktop/Screen%20Shot%202021-01-15%20at%2010.55.02%20AM.png)
